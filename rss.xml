@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[MacSamurai]]></title>
         <description><![CDATA[MacSamurai]]></description>
-        <link>https://thegrid.ai/macsamurai/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 00:02:38 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/macsamurai/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>testing</p>]]></description>
-            <link>https://thegrid.ai/macsamurai/f35c7a89-487d-4004-8478-98b83f2c457a/index.html</link>
-            <guid isPermaLink="false">f35c7a89-487d-4004-8478-98b83f2c457a</guid>
-            <pubDate>Mon, 26 Oct 2015 00:02:10 GMT</pubDate>
-        </item>
+        <lastBuildDate>Sun, 25 Oct 2015 23:59:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/macsamurai/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">1c91bc5d-07ad-49b9-882c-88348b492afc</guid>
             <pubDate>Sun, 25 Oct 2015 23:59:29 GMT</pubDate>
         </item>
